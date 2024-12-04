@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518577827182",
+    "project_id": "simplesocialmedia-fdccb",
+    "storage_bucket": "simplesocialmedia-fdccb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518577827182:android:d34775e05ace1c2a47657f",
+        "android_client_info": {
+          "package_name": "com.irem.simplesocialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo9UA_lo6m3VTM8DIniDOFHub-D1MbHtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
